@@ -105,7 +105,7 @@ function validaUf(elemento){
 
         event.preventDefault();
 
-        const emailValido = /^[a-z]+[a-z]+)?/i;
+        const emailValido = /^[a-z]+[a-z])?/i;
         if(this.value.match(ufValido)) {
             document.querySelector('.mensagem').innerHTML = "";
             this.classList.remove('erro');
