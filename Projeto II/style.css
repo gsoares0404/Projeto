@@ -7,9 +7,25 @@ header h1{
     color: aqua;
 }
 h2 {
+    margin-top: 25%;
     color: yellow;
-    font-size: 800%;
+    font-size: 1200%;
+    padding-bottom: 300px;
 }
+h3 {
+    margin-top: 25%;
+    color: yellow;
+    font-size: 1200%;
+}
+
+
+.container2 {
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+
 
 
 section {
